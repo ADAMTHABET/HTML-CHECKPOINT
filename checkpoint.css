@@ -1,0 +1,113 @@
+fieldset{
+    padding-bottom: 30px;/*pour definir l'espacement de bas*/
+    padding-top: 30px;/*pour definir l'espacement de haut*/
+    height: 300px;/*pour definir l'hauteur*/
+  width: 600px;/*pour definir le largeur*/
+  border-radius: 10px;/*pour definir l'arrondissement des coins*/
+  border-top-width: 3px;/*pour definir le largeur de bordure en haut*/
+  border-right-width: 3px;/*pour definir le largeur de bordure à droite*/
+  border-left-width: 2px;/*pour definir le largeur de bordure en à gauche*/
+  border-bottom-width: 3px;/*pour definir le largeur de bordure en bas*/
+  background-color:lightskyblue;/*pour definir la couleur de fond*/
+  box-shadow: 3px 2px 5px black;/*pour definir l'ombre*/
+margin-left: 300px;}
+
+  #bt{
+    width: 100px;/*pour definir le largeur*/
+    height: 30px;/*pour definir l'hauteur*/
+    color:white;/*pour definir la couleur*/
+    background-color: #1a73e8;/*pour definir la couleur du fond*/
+    border: 3px solid #0256ab;/*pour definir la bordure*/
+    border-radius: 5px;/*pour definir l'arrondissement des coins*/
+    box-shadow: 3px 2px 5px black;
+    }
+
+    h1{color:coral;/* pour definir la couleur */
+        font-size: 24px;/* pour definir la taille de police*/
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;/*pour definir l'alignement de texte*/ }
+        h1:hover{background-color:blanchedalmond;}  
+
+        body{ background-color: rgb(236, 238, 248);/*pour definir la couleur de fond*/
+            font-family:"Roboto", sans-serif;/*pour definir le style de police*/
+            font-size: 18px;/* pour definir la taille de police*/
+            color : black;}/* pour definir la couleur */
+
+            #im{border-radius: 5px;/*pour definir l'arrondissement des coins*/
+                height: 100px;/*pour definir l'hauteur*/
+            border: 2px solid black;/*pour definir la bordure*/
+                margin-right: 2px;/* pour definir la marge à droite */
+                margin-bottom: 2px;/* pour definir la marge en bas */
+                margin-left: 550px;/* pour definir la marge à gauche*/}
+
+                nav{
+                    padding: 10px;/*pour definir l'espacement*/
+                  display: inline;}
+                    
+
+                    h2{
+                        font-family: "Roboto", sans-serif;
+                        text-align: center;
+                        text-decoration:underline;
+                    }
+
+                    input{border-bottom-width: 1px ;/*pour definir le largeur de bordure en bas*/
+                        border-top: 0px;/*pour definir la bordure en haut*/
+                        border-left: 0px;/*pour definir la bordure à gauche*/
+                        font-size: inherit;/* pour definir la taille de police*/
+                        border-right: 0px;/*pour definir la bordure à droite*/
+                        border-bottom-color: silver;/*pour definir la couleur de la bordure en bas*/
+                      }
+                      a{
+                        width: 100px;/*pour definir le largeur*/
+                        height: 30px;/*pour definir l'hauteur*/
+                        color:cadetblue;/*pour definir la couleur*/
+                        border-radius: 5px;/*pour definir l'arrondissement des coins*/
+                        box-shadow: 3px 2px 5px ;
+                        text-decoration: none;
+                        padding-left: 20px;
+                        padding-right: 20px;
+                        text-align: center;
+                        text-transform: uppercase;
+                      }
+                      #a{
+                        margin-left: 900px;
+                      }
+
+                      textarea{
+                        border-bottom-width: 1px ;/*pour definir le largeur de bordure en bas*/
+                          border-top: 0px;/*pour definir la bordure en haut*/
+                          border-left: 0px;/*pour definir la bordure à gauche*/
+                          font-size: inherit;/* pour definir la taille de police*/
+                          border-right: 0px;/*pour definir la bordure à droite*/
+                          border-bottom-color: silver;/*pour definir la couleur de la bordure en bas*/
+                      }
+
+                      #aa{
+                        margin-left: 800px;
+                      }
+                      #b{
+                        margin-left: 500px;
+
+                      }
+
+                      #tb{
+                        text-align: center;
+                        margin-left: 350px;
+                        border-color:lightskyblue;
+                        width: 500px;
+                        
+                      }
+                      tr:hover {background-color: coral;}
+                    #aaa{
+                      text-align: center;
+                      margin-left: 500px;
+                      padding-bottom: 10px;
+                    }
+                    p{
+                      text-align: center;
+                      font-family: "Roboto", sans-serif;
+                      text-decoration:underline;
+                    
+                    } 
+                    p:hover {text-decoration: none;}
